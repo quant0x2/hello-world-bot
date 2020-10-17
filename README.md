@@ -1,0 +1,2 @@
+# kintaro-bot
+Simple bot
