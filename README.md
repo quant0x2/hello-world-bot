@@ -1,2 +1,2 @@
-# kintaro-bot
+# lacia-bot
 Simple bot
