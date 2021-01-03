@@ -1,2 +1,2 @@
-# lacia-bot
-Simple bot
+# Hello-world-bot
+Simple Discord bot
