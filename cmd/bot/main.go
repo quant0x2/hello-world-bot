@@ -163,7 +163,7 @@ func main() {
 			fmt.Println("OK")
 		case userMessage := <-messages:
 			var messageToSend = Message{
-				Content:          "Hello world!",
+				Content:          "Hi",
 				MessageReference: userMessage,
 			}
 			jsonData, _ := json.Marshal(messageToSend)
